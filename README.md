@@ -31,7 +31,8 @@ Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Di
     "Docker", 
     "Google Cloud Platform", 
     "Node.js",
-    " Express.js and Flask"
+    "Express.js",
+    "Flask"
 },
 "2024 Goals": "Internship at the best agency.",
 "hobbies": {
