@@ -47,6 +47,6 @@ Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Di
 #
 <h1 align="center">THANK YOU, LET'S CONNECT AND CHATT! </h1>
 
-<p>
-    <img width="1000" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"/>
+<p align="center">
+    <img width="1200" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"/>
 </p>
