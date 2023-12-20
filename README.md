@@ -37,8 +37,9 @@ Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Di
 "hobbies": {
     "Gaming", 
     "Cinema", 
-    "Skateboarding", 
-    "Art", 
+    "Music", 
+    "Coding",
+    "Boxing", 
     "Comedy"
 }
 ```
