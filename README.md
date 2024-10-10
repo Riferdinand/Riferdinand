@@ -24,7 +24,6 @@ Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Di
     "Virtualization"
 },
 "Technical_Background": {
-    "Front-end Developer",
     "Back-end Developer",
     "Cloud Computing",
     "IT System Infrastructure",
