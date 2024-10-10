@@ -3,7 +3,7 @@
 </p>
 
 # Introduction 👋
-Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Digital Technology University of Indonesia with a major in Informatics. Currently, I am participating in the Cloud Computing Cohort Student program at Bangkit Academy 2023.
+Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Digital Technology University of Indonesia with a major in Informatics. Currently, I am intern in the IT System Infrastructure at PT. Bank Central Asia Tbk (BCA).
 
 ## A Little Bit About Me and My Interests 👨🏻‍💻
 
@@ -12,27 +12,33 @@ Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Di
 "Located_In": "Sragen, Indonesia",
 "Education": {
     "Student at the Digital Technology University of Indonesia",
-    "Cloud Computing Cohort Student program at Bangkit Academy 2023",
+    "Bangkit Graduate Cloud Computing 2023",
+    "IT System Infrastructure Intern at PT. Bank Central Asia Tbk (BCA)
 },
 "Company": "Dicoding Indonesia",
 "Fields_of_Interests": {
     "Cloud Computing",
     "Backend Development",
     "Web Development",
-    "UI/UX",
-    "DevOps"
+    "Monitoring",
+    "Virtualization"
 },
 "Technical_Background": {
     "Front-end Developer",
     "Back-end Developer",
-    "Cloud Computing"
+    "Cloud Computing",
+    "IT System Infrastructure",
+    "Server Admin"
 },
 "Currently_Learning": {
     "Docker", 
     "Google Cloud Platform", 
     "Node.js",
     "Express.js",
-    "Flask"
+    "Flask",
+    "VROPs",
+    "Grafana",
+    "Prometheus"
 },
 "2024 Goals": "Internship at the best agency.",
 "hobbies": {
