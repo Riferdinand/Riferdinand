@@ -13,7 +13,7 @@ Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Di
 "Education": {
     "Student at the Digital Technology University of Indonesia",
     "Bangkit Graduate Cloud Computing 2023",
-    "IT System Infrastructure Intern at PT. Bank Central Asia Tbk (BCA)
+    "IT System Infrastructure Intern at PT. Bank Central Asia Tbk (BCA)"
 },
 "Company": "Dicoding Indonesia",
 "Fields_of_Interests": {
