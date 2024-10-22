@@ -9,19 +9,18 @@ Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Di
 
 ```yaml
 "Name": "Rio Ferdinand",
-"Located_In": "Sragen, Indonesia",
+"Located_In": "West Jakarta, Indonesia",
 "Education": {
     "Student at the Digital Technology University of Indonesia",
     "Bangkit Graduate Cloud Computing 2023",
-    "IT System Infrastructure Intern at PT. Bank Central Asia Tbk (BCA)"
 },
-"Company": "Dicoding Indonesia",
+"Experience": "IT System Infrastructure Intern at PT. Bank Central Asia Tbk (BCA)",
+"Company": "Digital Technology University of Indonesia",
 "Fields_of_Interests": {
     "Cloud Computing",
     "Backend Development",
     "Web Development",
-    "Monitoring",
-    "Virtualization"
+    "IT System Infrastructure"
 },
 "Technical_Background": {
     "Back-end Developer",
