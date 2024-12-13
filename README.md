@@ -38,7 +38,7 @@ Allow me to introduce myself. I am Rio Ferdinand from Sragen. I come from the Di
     "Grafana",
     "Prometheus"
 },
-"2024 Goals": "Internship at the best agency.",
+"2024 Goals": "Work at the best agency like BCA.",
 "hobbies": {
     "Gaming", 
     "Cinema", 
